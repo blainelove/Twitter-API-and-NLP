@@ -1,6 +1,6 @@
 # **Fun with Twitter and Natural Language Processing**
 
-Using [Tweepy](http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html) to interact with the Twitter API, these scripts provide functions to tweet status updates as well as search Twitter to conduct basic sentiment analysis using [TextBlob](https://textblob.readthedocs.io/en/dev/index.html) library for natural language processing.
+Using [Tweepy](https://tweepy.readthedocs.io/en/v3.9.0/getting_started.html) to interact with the Twitter API, these scripts provide functions to tweet status updates as well as search Twitter to conduct basic sentiment analysis using [TextBlob](https://textblob.readthedocs.io/en/dev/index.html) library for natural language processing.
 
 ## **UpdateStatus**
 
